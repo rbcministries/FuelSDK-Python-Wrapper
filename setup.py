@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     readme = f.read()
 
 setup(
-    version='1.3.4',
+    version='1.3.2',
     name='FuelSDKWrapper',
     description='Simplify and enhance the FuelSDK for Salesforce Marketing Cloud (ExactTarget)',
     long_description=readme,
